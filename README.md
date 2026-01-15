@@ -30,11 +30,11 @@ We welcome contributions! Feel free to fork the repository, check out the issues
 To get a local copy up and running, follow these steps:
 1. Clone the repo: 
 ```
-git clone https://github.com/your-username/Fanaven.git
+git clone https://github.com/abdullah97-pro/Fanaven-Professional-Training-Hub-App
 ```
 2. Navigate to the project directory: 
 ```
-cd Fanaven
+cd Fanaven-Professional-Training-Hub-App
 ```
 
 Join us in empowering professionals with the skills they need to succeed!
